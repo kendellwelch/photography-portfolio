@@ -1,0 +1,1 @@
+This project is a collection of my work as a photographer. It is also an independent coding project to create a stylish and easy to use gallery. 
